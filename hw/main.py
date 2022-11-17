@@ -1,7 +1,7 @@
 from character import Character
 
-player1 = Character(name='Антон', damage=10)
-player2 = Character(name='Олег', damage=8)
+player1 = Character(name='Teacher', damage=20)
+player2 = Character(name='Student', damage=16)
 
 print(player1, '\n')
 print(player2, '\n')
